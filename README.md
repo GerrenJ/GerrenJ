@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Extract Vital Information from Target Networks        | <a href="https://github.com/RrenGe/Enumeration-Lab/blob/main/Jerome%20-%20Enumeration%20Methods.pdf">Enumeration Lab</a>|
-| Network Traffic Monitoring and Attack Detecti | <a href="https://google.com">Detection Lab</a>|
+| Malware Analysis and Enumeration | <a href="https://github.com/RrenGe/MalwareThreat-Lab/blob/main/Jerome%20-%20Malware%20Threat.pdf">Malware Threats</a>|
 
 
 ## Tools
