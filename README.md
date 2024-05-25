@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Class Registration System Program          | <a href="https://github.com/RrenGe/Additional-Learning/tree/main/Github%20Portfolio/Python%20-%20Class%20Registration%20System%20Program">Class Registration System Program</a>|
+| (Python) Class Registration System Program          | <a href="https://github.com/RrenGe/Additional-Learning/tree/main/Github%20Portfolio/Python%20-%20Class%20Registration%20System%20Program">Class Registration System Program</a>|
 | Network Traffic Monitoring and Attack Detecti | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
