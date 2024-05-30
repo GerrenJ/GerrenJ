@@ -11,10 +11,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Extract Vital Information from Target Networks        | <a href="https://github.com/RrenGe/Enumeration-Lab/blob/main/Jerome%20-%20Enumeration%20Methods.pdf">Enumeration Lab</a>|
-| Malware Analysis and Enumeration | <a href="https://github.com/RrenGe/MalwareThreat-Lab/blob/main/Jerome%20-%20Malware%20Threat.pdf">Malware Threats</a>|
-| Malware Analysis, Enumeration and Cleanup                                           | <a href="https://github.com/RrenGe/MalwareCleanup-Challenge/blob/main/Jerome%20-%20Malware%20Cleanup%20Challenge.pdf">Malware Cleanup Challenge</a>|
-
+| Extract Vital Information from Target Networks| <a href="https://github.com/RrenGe/Enumeration-Lab/blob/main/Jerome%20-%20Enumeration%20Methods.pdf">Enumeration Lab</a>|
+| Malware Analysis and Enumeration              | <a href="https://github.com/RrenGe/MalwareThreat-Lab/blob/main/Jerome%20-%20Malware%20Threat.pdf">Malware Threats</a>|
+| Malware Analysis, Enumeration and Cleanup     | <a href="https://github.com/RrenGe/MalwareCleanup-Challenge/blob/main/Jerome%20-%20Malware%20Cleanup%20Challenge.pdf">Malware Cleanup Challenge</a>|
+| Network Vulnerability Research                | <a href="https://github.com/RrenGe/Vulnerability-Analysis/blob/main/Jerome%20-%20Vulnerability%20Analysis%20Project.pdf">Vulnerability Analysis</a>|
 
 ## Tools
 
