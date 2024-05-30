@@ -1,4 +1,4 @@
-# Hello, I'm Gerren (Ren).
+# Hello, I'm Gerren.
 <a href="https://linkedin.com/in/gerren-jerome-ga/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cybersecurity student, with one more course left before graduation. I have a passion for anything technology (good or bad) and a dedication to solving complex problems no matter how big or small.
