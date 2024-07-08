@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Malware Analysis, Enumeration and Cleanup     | <a href="https://github.com/RrenGe/MalwareCleanup-Challenge/blob/main/Jerome%20-%20Malware%20Cleanup%20Challenge.pdf">Malware Cleanup Challenge</a>|
 | Network Vulnerability Research                | <a href="https://github.com/RrenGe/Vulnerability-Analysis/blob/main/Jerome%20-%20Vulnerability%20Analysis%20Project.pdf">Vulnerability Analysis</a>|
 | SIEM, Malware Analysis, Research              | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Introduction_to_SIEM%20-%20Part%201.mp4">SIEM Part 1</a>|
-| SIEM, Malware Analysis, Research              | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Introduction_to_SIEM%20-%20Part%202.mp4">SIEM Part 1</a>|
+| SIEM, Malware Analysis, Research              | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Introduction_to_SIEM%20-%20Part%202.mp4">SIEM Part 2</a>|
 
 ## Tools
 
