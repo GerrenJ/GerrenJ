@@ -48,6 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- Splunk: Setting up a SOC Lab
 - Class Registration System (Python)
 - Enumeration Method
 - Footprinting_and_Reconnaissance
