@@ -43,11 +43,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-CompTIA Security+ (Expected 11/20) 
-Wake Technical Community College: C25590CF - IT: Cyber Operations & Digital Forensics 
-Wake Technical Community College: C25590PE - IT: Penetration Testing & Ethical Hacking 
-Google Cybersecurity Certificate 
-FEMA National Incident Management System (NIMS): ICS-100
+    CompTIA Security+ (Expected 11/20) 
+    Wake Technical Community College: C25590CF - IT: Cyber Operations & Digital Forensics 
+    Wake Technical Community College: C25590PE - IT: Penetration Testing & Ethical Hacking 
+    Google Cybersecurity Certificate 
+    FEMA National Incident Management System (NIMS): ICS-100
 
 ## Projects
 - Splunk: Setting up a SOC Lab
