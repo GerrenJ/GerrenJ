@@ -12,11 +12,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Extract Vital Information from Target Networks| <a href="https://github.com/RrenGe/Enumeration-Lab/blob/main/Jerome%20-%20Enumeration%20Methods.pdf">Enumeration Lab</a>|
-| Malware Analysis and Enumeration              | <a href="https://github.com/RrenGe/MalwareThreat-Lab/blob/main/Jerome%20-%20Malware%20Threat.pdf">Malware Threats</a>|
-| Malware Analysis, Enumeration and Cleanup     | <a href="https://github.com/RrenGe/MalwareCleanup-Challenge/blob/main/Jerome%20-%20Malware%20Cleanup%20Challenge.pdf">Malware Cleanup Challenge</a>|
 | Network Vulnerability Research                | <a href="https://github.com/RrenGe/Vulnerability-Analysis/blob/main/Jerome%20-%20Vulnerability%20Analysis%20Project.pdf">Vulnerability Analysis</a>|
 | Splunk for Data Analysis & Event Filtering, SIEM | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Splunk%20Lab_Basics.pdf">Splunk Basics</a>|
 | Splunk Installation, Configuration, Data Forwarding, Receiving, Log Analysis, Visualization, & Monitoring | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Splunk%20Lab%20-%20Setting_up_a_SOC_Lab.pdf">Splunk - Setting up a SOC Lab</a>|
+| Malware Analysis and Enumeration              | <a href="https://github.com/RrenGe/MalwareThreat-Lab/blob/main/Jerome%20-%20Malware%20Threat.pdf">Malware Threats</a>|
+| Malware Analysis, Enumeration and Cleanup     | <a href="https://github.com/RrenGe/MalwareCleanup-Challenge/blob/main/Jerome%20-%20Malware%20Cleanup%20Challenge.pdf">Malware Cleanup Challenge</a>|
 | SIEM, Malware Analysis, Research P1             | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Introduction_to_SIEM%20-%20Part%201.mp4">SIEM Part 1</a>|
 | SIEM, Malware Analysis, Research P2             | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Introduction_to_SIEM%20-%20Part%202.mp4">SIEM Part 2</a>|
 | SIEM, Event and Alert monitoring | <a href="https://www.youtube.com/watch?v=LkrAYWhpTVE">Creating a SIEM system w/ Microsoft Sentinel</a>|
