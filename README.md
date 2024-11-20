@@ -55,7 +55,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
   
 [![YouTube](http://i.ytimg.com/vi/LkrAYWhpTVE/hqdefault.jpg)](https://www.youtube.com/watch?v=LkrAYWhpTVE)
 
+- Reset Kali Linux Password Through Boot
 
+[![YouTube](http://i.ytimg.com/vi/3_xZdGRg4D8/hqdefault.jpg)](https://www.youtube.com/watch?v=3_xZdGRg4D8)
 
 - Splunk: Setting up a SOC Lab
 - Class Registration System (Python)
