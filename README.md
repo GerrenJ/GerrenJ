@@ -1,11 +1,11 @@
 # Hello, I'm Gerren.
 <a href="https://linkedin.com/in/gerren-jerome-ga/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity student, with one more course left before graduation. I have a passion for anything technology (good or bad) and a dedication to solving complex problems no matter how big or small.
+I am a Cybersecurity student and enthusiast. I have a passion for anything technology (good or bad) and a dedication to solving complex problems no matter how big or small. If there is a solution, best believe I am looking for it.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
 ## Skills
 
@@ -15,11 +15,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Malware Analysis and Enumeration              | <a href="https://github.com/RrenGe/MalwareThreat-Lab/blob/main/Jerome%20-%20Malware%20Threat.pdf">Malware Threats</a>|
 | Malware Analysis, Enumeration and Cleanup     | <a href="https://github.com/RrenGe/MalwareCleanup-Challenge/blob/main/Jerome%20-%20Malware%20Cleanup%20Challenge.pdf">Malware Cleanup Challenge</a>|
 | Network Vulnerability Research                | <a href="https://github.com/RrenGe/Vulnerability-Analysis/blob/main/Jerome%20-%20Vulnerability%20Analysis%20Project.pdf">Vulnerability Analysis</a>|
-| SIEM, Malware Analysis, Research              | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Introduction_to_SIEM%20-%20Part%201.mp4">SIEM Part 1</a>|
-| SIEM, Malware Analysis, Research              | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Introduction_to_SIEM%20-%20Part%202.mp4">SIEM Part 2</a>|
+| SIEM, Malware Analysis, Research P1             | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Introduction_to_SIEM%20-%20Part%201.mp4">SIEM Part 1</a>|
+| SIEM, Malware Analysis, Research P2             | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Introduction_to_SIEM%20-%20Part%202.mp4">SIEM Part 2</a>|
 | Splunk for Data Analysis & Event Filtering, SIEM | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Splunk%20Lab_Basics.pdf">Splunk Basics</a>|
 | Splunk Installation, Configuration, Data Forwarding, Receiving, Log Analysis, Visualization, & Monitoring | <a href="https://github.com/GerrenJ/Splunk-SIEM/blob/main/Jerome%20-%20Splunk%20Lab%20-%20Setting_up_a_SOC_Lab.pdf">Splunk - Setting up a SOC Lab</a>|
 | SIEM, Event and Alert monitoring | <a href="https://www.youtube.com/watch?v=LkrAYWhpTVE">Creating a SIEM system w/ Microsoft Sentinel</a>|
+| Linux Technical Troubleshooting and System Configuration | <a href="https://www.youtube.com/watch?v=3_xZdGRg4D8">Reset Kali Linux Password Through Boot</a>|
 ## Tools
 
 ### Network
@@ -43,7 +44,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-    CompTIA Security+ (Expected 11/20) 
+    CompTIA Security+ (Expected 12/20) 
     Wake Technical Community College: C25590CF - IT: Cyber Operations & Digital Forensics 
     Wake Technical Community College: C25590PE - IT: Penetration Testing & Ethical Hacking 
     Google Cybersecurity Certificate 
